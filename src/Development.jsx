@@ -15,7 +15,7 @@ export default function Development(props) {
       <h2 className="project-title">Development</h2>
       <h6 className="project-date">November 29, 2022</h6>
       <img
-        src={require("./assets/development.png")}
+        src={require("./assets/development.jpg")}
         alt="Header"
         className="header-video"
       />
